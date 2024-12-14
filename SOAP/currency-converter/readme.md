@@ -2,7 +2,7 @@
 
 1. Execute o cliente:
    ```bash
-   node currencyClient.js
+   node client.js
    ```
 2. Siga as instruções no terminal:
    * Escolha **1** para converter um número para texto.
